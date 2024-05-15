@@ -10,8 +10,8 @@
 4. Cambiar las configuraciones del algoritmo LogisticRegression.
 
 ### Integrantes
-Roberto Valladolid
-Andres Jimenez
-Jonathan Medía
+1. Roberto Valladolid
+2. Andres Jimenez
+3. Jonathan Medía
 
 #### Proyecto con fines educativos
